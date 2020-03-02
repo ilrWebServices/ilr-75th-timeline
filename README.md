@@ -1,1 +1,3 @@
-# ilr-75th-timeline
+# ILR 75th anniversary timeline
+
+This time line uses https://timeline.knightlab.com/
